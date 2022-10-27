@@ -1,0 +1,6 @@
+L'application doit s'excuter sur un appareil android avec la version 
+minimale d'android 8.
+
+La video explicative est de format mp4, pour la lire il est préférable d'utiliser
+VLC media player ou tout autre media pouvant lire le format mp4, windows player peut 
+ne pas ouvrir ce fichier, ou alors uniquement l'audio.
