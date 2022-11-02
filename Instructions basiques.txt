@@ -1,6 +1,8 @@
 L'application doit s'excuter sur un appareil android avec la version 
 minimale d'android 8.
 
+Le fichier Saxi App avec une extension (a la fin de son .apk) est l'executable de l'application, telechargez le pour l'installer sur votre smartphone android.
+
 Dans le fichier ReadMe.md vous trouverez 4 vidoes explicative de l'application toutes d'envirions une minute, pour un totale de 3min 50s. Il en est ainsi car il est impossible d'uploader un fichier depassant 10MB en une fois, d'ou la necessité de l'avoir fait par plus petites parties.
 
 Profitez bien de la démo! Merci de votre attention.
